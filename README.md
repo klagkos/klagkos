@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Christos Klagkos, you can call me Chris.
 - 👀 I’m interested in a lot of things.
 - ⚡ Fun fact: I like chess, basketball and coffee!
-- ❓ Will I ever make a proper profile README?
+- ❓ Will I ever write a proper README?  
     Who knows...
 
 <!---
